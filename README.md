@@ -132,15 +132,21 @@ En esta practica, la ayuda se sobrepone al texto de la aplicación, para especif
 ## Herramienta y referencias
 
 **Herramientas**
+
 [EZGif](https://ezgif.com/): Alternativa para hacer gif con facilidad
+
 [OpenStreetMap](https://www.openstreetmap.org/#map=13/28.1126/-15.4336): Datos .osm y extracción de imagenes del mapa
 
 **Referencias**
+
 [Explicación práctica 5](https://github.com/otsedom/otsedom.github.io/tree/main/CIU/P5)
 
 [svg bicicleta](https://svgsilh.com/tag/bicycle-1.html)
+
 [svg click izquierdo](https://www.svgrepo.com/svg/69012/mouse-left-button)
+
 [svg flechas](https://www.svgrepo.com/svg/136829/left-and-right-arrows)
 
 [Borrar tildes](https://stackoverflow.com/questions/15190656/easy-way-to-remove-accents-from-a-unicode-string)
+
 [Borrar parentesis](https://stackoverflow.com/questions/56375850/how-to-remove-parentheses-from-string)
